@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ course\ here.\r\n\r\n\ @author\ (Prabhat\ Kumar\ Karn)\r\n\ @version\ (1.0)\r\n
+comment1.params=courseName\ instructorName\ totalHours
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getCourseName()
+comment3.params=
+comment3.target=java.lang.String\ getInstructorName()
+comment4.params=
+comment4.target=java.lang.String\ getStudentName()
+comment5.params=studentName
+comment5.target=void\ setStudentName(java.lang.String)
+comment6.params=
+comment6.target=void\ display()
+numComments=7
